@@ -1,0 +1,140 @@
+{
+ "theme": "mystic",
+ "voice": "mb-br3",
+ "scenes": [
+  {
+   "kind": "title",
+   "title": "O Caibalion",
+   "subtitle": "hermetismo e os sete princípios",
+   "symbol": "☿",
+   "narration": "O Caibalion: uma porta de entrada para o hermetismo e seus sete princípios."
+  },
+  {
+   "kind": "symbol",
+   "symbol": "☤",
+   "title": "Hermes Trismegisto",
+   "subtitle": "o três vezes grande, unido a Thoth",
+   "narration": "Tudo parte de Hermes Trismegisto, o três vezes grande: o Hermes grego unido a Thoth, deus egípcio da sabedoria."
+  },
+  {
+   "kind": "split",
+   "title": "Corpus Hermeticum",
+   "text": "Textos gregos dos primeiros séculos, traduzidos por Marsílio Ficino em 1463.",
+   "symbol": "fa-book",
+   "narration": "Seus ensinamentos sobreviveram no Corpus Hermeticum, textos gregos redescobertos no Renascimento."
+  },
+  {
+   "kind": "icons",
+   "title": "Herança hermética",
+   "items": [
+    {
+     "icon": "🜔",
+     "label": "alquimia"
+    },
+    {
+     "icon": "☉",
+     "label": "astrologia"
+    },
+    {
+     "icon": "fa-university",
+     "label": "Renascimento"
+    },
+    {
+     "icon": "✦",
+     "label": "esoterismo"
+    }
+   ],
+   "narration": "Dele vieram a alquimia, a astrologia filosófica e boa parte do esoterismo moderno."
+  },
+  {
+   "kind": "kinetic",
+   "text": "1908: *três iniciados* publicam o Caibalion",
+   "narration": "Em 1908, três autores anônimos publicaram o Caibalion, resumindo tudo em sete princípios."
+  },
+  {
+   "kind": "wheel",
+   "title": "Os sete princípios",
+   "center": "☿",
+   "nodes": [
+    "Mentalismo",
+    "Correspondência",
+    "Vibração",
+    "Polaridade",
+    "Ritmo",
+    "Causa e Efeito",
+    "Gênero"
+   ],
+   "narration": "Mentalismo, correspondência, vibração, polaridade, ritmo, causa e efeito, e gênero."
+  },
+  {
+   "kind": "kinetic",
+   "text": "1 · Mentalismo: o Todo é *Mente*",
+   "narration": "Primeiro, o mentalismo: o Todo é mente, e o universo é mental."
+  },
+  {
+   "kind": "geometry",
+   "shape": [
+    "circle",
+    "hexagram"
+   ],
+   "title": "2 · Correspondência",
+   "subtitle": "Como acima, assim abaixo.",
+   "narration": "Segundo, a correspondência: como acima, assim abaixo; como dentro, assim fora."
+  },
+  {
+   "kind": "geometry",
+   "shape": "wave",
+   "title": "3 · Vibração",
+   "subtitle": "Nada está parado; tudo vibra.",
+   "narration": "Terceiro, a vibração: nada está parado, tudo se move, tudo vibra."
+  },
+  {
+   "kind": "symbol",
+   "symbol": "☯",
+   "spin": true,
+   "title": "4 · Polaridade",
+   "subtitle": "Os opostos são o mesmo, em graus diferentes.",
+   "narration": "Quarto, a polaridade: tudo é duplo, e os opostos são a mesma coisa em graus diferentes."
+  },
+  {
+   "kind": "geometry",
+   "shape": "pendulum",
+   "title": "5 · Ritmo",
+   "subtitle": "Tudo flui e reflui, como um pêndulo.",
+   "narration": "Quinto, o ritmo: tudo flui e reflui, e o pêndulo oscila em todas as coisas."
+  },
+  {
+   "kind": "geometry",
+   "shape": "arrows",
+   "labels": [
+    "causa",
+    "efeito",
+    "causa"
+   ],
+   "title": "6 · Causa e Efeito",
+   "subtitle": "O acaso é só uma lei não reconhecida.",
+   "narration": "Sexto, causa e efeito: toda causa tem seu efeito, e o acaso é uma lei não reconhecida."
+  },
+  {
+   "kind": "symbol",
+   "symbol": "⚥",
+   "title": "7 · Gênero",
+   "subtitle": "Masculino e feminino em tudo.",
+   "narration": "Sétimo, o gênero: os princípios masculino e feminino estão presentes em tudo."
+  },
+  {
+   "kind": "quote",
+   "title": "Os lábios da sabedoria estão fechados, exceto aos ouvidos do entendimento.",
+   "subtitle": "O Caibalion",
+   "narration": "Os lábios da sabedoria estão fechados, exceto aos ouvidos do entendimento."
+  },
+  {
+   "kind": "cta",
+   "title": "Como acima, assim abaixo",
+   "subtitle": "estude, observe, pratique",
+   "symbol": "✦",
+   "narration": "Como acima, assim abaixo: observe os princípios na sua própria vida."
+  }
+ ],
+ "speed": 1.05
+}
